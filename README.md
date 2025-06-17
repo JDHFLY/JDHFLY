@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**JDHFLY/JDHFLY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+基本信息 Basic information
+❖邮 箱：jdhfly_2020@163.com   ❖身 高：171cm  
+❖毕业院校：湛江科技学院   ❖学 历：本科
+教育背景 Education
+2017.09-2020.06 汕尾职业技术学院 无 云计算技术与应用（大专）
+❖ 主修课程：Java 编程、HTML5 网页设计、Linux 服务器管理、Hadoop 大数据管理、Python 数据分析、云平台部署等。
+❖ 学习成果：掌握云计算核心技术，具备云平台部署与应用能力。
+2023.09-2025.06 湛江科技学院 学士 信息管理与信息系统（本科）
+❖ 主修课程：信息系统分析与设计、ERP 系统与应用、Linux 操作系统、JavaEE 企业级应用开发、Python 程序设计、Web 程序设计、移动应用开发等。
+❖ 学习成果：曾获得奖学金，成绩优异，具备扎实的理论基础和实践能力。
+兴趣爱好 Hobbies
+❖游泳、摄影、研究技术文章、阅读提升修养的书籍。
